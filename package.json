@@ -59,6 +59,7 @@
   },
   "devDependencies": {
     "@adiwajshing/eslint-config": "github:adiwajshing/eslint-config",
+    "@queenanya/apkdl": "latest",
     "@queenanya/invite": "latest",
     "@types/got": "^9.6.11",
     "@types/jest": "^27.5.1",
